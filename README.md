@@ -1,4 +1,4 @@
-#### | Ainda começando...
+#### | Só uso porque sou obrigado
 
 <div style="margin-top: 5%;">
 
@@ -17,10 +17,4 @@
 
 </div>
 
-#### | Um pouco mais sobre mim:
-<div style="margin-top: 3%;">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
 </div>
